@@ -5,6 +5,10 @@
 This project analyzes supply chain operations to uncover delivery delays, logistics inefficiencies, regional risks, and product profitability patterns.
 The goal is to transform raw operational data into actionable insights that support better logistics planning and business decision-making.
 
+🚨 Business Problem
+
+Logistics operations face inconsistent delivery performance, impacting customer satisfaction and operational efficiency. Identifying delay drivers and profitability trade-offs is critical for improving service reliability while maintaining business margins.
+
 
 🎯 Business Questions Answered
 
